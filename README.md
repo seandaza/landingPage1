@@ -1,3 +1,3 @@
 # landingPage1
 
-Deployed on https://landing-page1-howj5bosz-seandaza.vercel.app/
+Deployed on https://landingp1.vercel.app/
